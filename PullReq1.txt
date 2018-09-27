@@ -1,0 +1,9 @@
+I have been getting a bit more familiar with Github and Git since it is confusing.
+I understand the basics of swift as it is familiar to other languages with some distinct differences.
+Swift is heavily tested so I have been looking at their tests to get familiar with how to approach the project 
+and start testing. 
+I have also been looking through the swift documentation on their website which helps explain how they test the language and how to get started with it. 
+
+
+
+
