@@ -3,7 +3,7 @@ Trying to get familiar with how swift is tested has helped me better understand 
 and reading the documentation helps a lot.
 
 I have had some issues with my computer this week which has set me back a bit on testing, 
-which is why i'm submitting a document this week.
+which is why i'm submitting a document this week. I have also had some issues with creating a pull request.
 
 The following has helped me get more familiar with the project, i find they are useful to what i 
 need to do.
