@@ -7,9 +7,9 @@ which is why i'm submitting a document this week.
 
 The following has helped me get more familiar with the project, i find they are useful to what i 
 need to do.
-	-[Swift Compiler](https://swift.org/compiler-stdlib/#compiler-architecture)
-	-[Swift Grammar](https://docs.swift.org/swift-book/ReferenceManual/zzSummaryOfTheGrammar.html)
-	-[unit testing](https://clean-swift.com/effective-unit-testing/)
-	-[Swift Debugger LLDB](https://github.com/apple/swift-lldb)
-	-[Testing](https://github.com/apple/swift/blob/master/docs/ContinuousIntegration.md)
+[Swift Compiler](https://swift.org/compiler-stdlib/#compiler-architecture)
+[Swift Grammar](https://docs.swift.org/swift-book/ReferenceManual/zzSummaryOfTheGrammar.html)
+[unit testing](https://clean-swift.com/effective-unit-testing/)
+[Swift Debugger LLDB](https://github.com/apple/swift-lldb)
+[Testing](https://github.com/apple/swift/blob/master/docs/ContinuousIntegration.md)
 
